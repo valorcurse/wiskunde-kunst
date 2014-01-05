@@ -52,11 +52,12 @@ De kunstwerk \textit{Circle Limit III} is een houtsnede stuk gemaakt door de ned
         \label{fig:structCompare}
 \end{figure}
 
-\noindent Escher's inspiratie voor de \textit{Circle Limit III} kwam van een bezoek aan Alhambra. Alhambra is een paleis in Spanje waar muren te vinden zijn die versierd zijn met repetitieve patronen die elkaar niet mogen overlappen, zo genaamd tesselatie of betegeling. Dit kunstwerk is verder ook gebaseerd op een afbeelding die zich bevond in een paper van meetkundiger Donald Coxeter genaamd \textit{``Crystal Symmetry and its Generalizations''}. De afbeelding, die te zien is in Figuur \ref{fig:hyperbolic-domains}, weergeeft een tesselatie met rechthoekig driehoeken met hoeken van 30, 45, and 90 graden binnen een hyperbolische vlakte. 
+\noindent Escher's inspiratie voor de \textit{Circle Limit III} kwam van een bezoek aan Alhambra. Alhambra is een paleis in Spanje waar zich muren bevinden die versierd zijn met repetitieve patronen die elkaar niet mogen overlappen, zo genaamd tesselatie of betegeling. Deze patronen zijn gecategoriseerd in zo genaamde behangpatroongroepen. Er zijn 17 verschillende patronen en deze zijn allemaal te vinden in Alhambra.
 
+Dit kunstwerk is verder ook gebaseerd op een afbeelding die zich bevond in een paper van meetkundiger Donald Coxeter genaamd \textit{``Crystal Symmetry and its Generalizations''}. De afbeelding, die te zien is in Figuur \ref{fig:hyperbolic-domains}, weergeeft een tesselatie met rechthoekig driehoeken met hoeken van 30, 45, and 90 graden binnen een hyperbolische vlakte.
 Een hyperbolische vlakte, in dit geval is het een halve sfeer, is een vlakte waar twee parallel lopende lijnen steeds verder weg van elkaar buigen hoe verder je elke kant op gaat. Er gelden niet dezelfde regels in een hyperbolische vlakte als in een vlakke twee dimensioneel vlakte. Het is daarom mogelijk om rechthoekig driehoeken te hebben waarbij de optelling van alle hoeken niet perse op 180 graden uitkomt, zoals afgebeeld in Figuur \ref{fig:aarde}.
 
-\begin{figure}[h]
+\begin{figure}[Hh]
         \centering
         \begin{subfigure}{0.5\textwidth}
             \includegraphics[width=\textwidth]{hyperbolic_domains}
@@ -72,5 +73,51 @@ Een hyperbolische vlakte, in dit geval is het een halve sfeer, is een vlakte waa
         \caption{Hyperbolische vlaktes}
         \label{fig:structCompare}
 \end{figure}
+
+\pagebreak
+
+\begin{thebibliography}{9}
+
+\bibitem{}
+	\url{http://en.wikipedia.org/wiki/Circle_Limit_III}
+
+\bibitem{}
+	\url{http://nl.wikipedia.org/wiki/Hyperbolische_meetkunde}
+
+\bibitem{}
+	\url{http://en.wikipedia.org/wiki/Hyperbolic_geometry}
+
+\bibitem{}
+	\url{http://en.wikipedia.org/wiki/Wallpaper_group}
+
+\bibitem{}
+	\url{http://en.wikipedia.org/wiki/Tessellation}
+
+\bibitem{}
+	\url{http://nl.wikipedia.org/wiki/Betegeling}
+
+\bibitem{}
+	\url{http://nl.wikipedia.org/wiki/Houtsnede}
+
+\bibitem{}
+	\url{http://en.wikipedia.org/wiki/Non-Euclidean_geometry}
+
+\bibitem{}
+	\url{http://nl.wikipedia.org/wiki/Niet-euclidische_meetkunde}
+
+\bibitem{}
+	\url{http://nl.wikipedia.org/wiki/Maurits_Cornelis_Escher}
+
+\bibitem{}
+	\url{http://en.wikipedia.org/wiki/M._C._Escher}
+
+\bibitem{}
+	\url{http://en.wikipedia.org/wiki/Baarn}
+
+\bibitem{}
+	\url{http://nl.wikipedia.org/wiki/Donald_Coxeter}
+
+	
+\end{thebibliography}
 
 \end{document}
